@@ -1,0 +1,6 @@
+id=RefreshRate120ngm
+name=Always 120HZ
+version=v1.1
+versionCode=2
+author=@nightygangmusic
+description=Set min_refresh_rate 120.0
