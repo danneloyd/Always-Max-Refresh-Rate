@@ -1,0 +1,1 @@
+I made this module for my Moto G55. But it's universal. This module set min_refresh_rate to 90/120 & set peak_refresh_rate 90/120 after every system reboot. If you not sure that this module gonna help you, you can check this setting via SetEdit (System Table). If you doesn't have this settings at all, then this module is not supported for you.
